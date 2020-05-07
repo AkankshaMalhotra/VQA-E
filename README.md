@@ -6,3 +6,5 @@ and provide two modalities of explanations for the model output.
 image embeddings, for 20 epochs and 1000 data points.
 
 link to VQA-EI dataset: https://drive.google.com/file/d/1JHKaF-0aZEVdOodrn8bNw62WksANG2y3/view?usp=sharing
+
+[Paper](Deep_Learning_Project.pdf)
