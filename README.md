@@ -5,6 +5,10 @@ and provide two modalities of explanations for the model output.
 - We reported 70% accuracy on the answer predictions using GRU model using Glove embedding, and a ResNet152 pre-trained network for the 
 image embeddings, for 20 epochs and 1000 data points.
 
-link to VQA-EI dataset: https://drive.google.com/file/d/1JHKaF-0aZEVdOodrn8bNw62WksANG2y3/view?usp=sharing
+VQA-EI dataset: https://drive.google.com/file/d/1JHKaF-0aZEVdOodrn8bNw62WksANG2y3/view?usp=sharing
+
+supporting data:
+[MS-COCO images](http://images.cocodataset.org/zips/train2014.zip)
+[Glove](http://nlp.stanford.edu/data/glove.6B.zip)
 
 [Paper](Deep_Learning_Project.pdf)
