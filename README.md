@@ -8,7 +8,8 @@ image embeddings, for 20 epochs and 1000 data points.
 VQA-EI dataset: https://drive.google.com/file/d/1JHKaF-0aZEVdOodrn8bNw62WksANG2y3/view?usp=sharing
 
 supporting data:
-[MS-COCO images](http://images.cocodataset.org/zips/train2014.zip)
-[Glove](http://nlp.stanford.edu/data/glove.6B.zip)
+- [MS-COCO images](http://images.cocodataset.org/zips/train2014.zip)  
+
+- [Glove](http://nlp.stanford.edu/data/glove.6B.zip)
 
 [Paper](Deep_Learning_Project.pdf)
